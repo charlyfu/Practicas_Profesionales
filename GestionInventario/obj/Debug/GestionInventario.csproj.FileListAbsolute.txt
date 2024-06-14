@@ -1,0 +1,68 @@
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\GestionInventario.exe.config
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\GestionInventario.exe
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\GestionInventario.pdb
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\MySql.Data.dll
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\System.Memory.dll
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\System.Buffers.dll
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\MySql.Data.xml
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.csproj.AssemblyReference.cache
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.Properties.Resources.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.csproj.GenerateResource.cache
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.csproj.CoreCompileInputs.cache
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.csproj.CopyComplete
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.exe
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.pdb
+C:\Users\chatl\source\repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmLogin.resources
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\bin\Debug\GestionInventario.exe.config
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\bin\Debug\GestionInventario.exe
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\bin\Debug\GestionInventario.pdb
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\bin\Debug\MySql.Data.dll
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\bin\Debug\System.Memory.dll
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\bin\Debug\System.Buffers.dll
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\bin\Debug\MySql.Data.xml
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.csproj.AssemblyReference.cache
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmLogin.resources
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.Properties.Resources.resources
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.csproj.GenerateResource.cache
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.csproj.CoreCompileInputs.cache
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionI.14355B1F.Up2Date
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.exe
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.pdb
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmGestionUsuarios.resources
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmRecepcionCarne.resources
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\bin\Debug\zxing.dll
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\bin\Debug\zxing.presentation.dll
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\bin\Debug\zxing.xml
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\bin\Debug\zxing.presentation.xml
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\bin\Debug\Fonts\Font Awesome 6 Brands-Regular-400.otf
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\bin\Debug\Fonts\Font Awesome 6 Free-Regular-400.otf
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\bin\Debug\Fonts\Font Awesome 6 Free-Solid-900.otf
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmGestionInventario.resources
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmPrincipal.resources
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmTrazalibildad.resources
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmLyfc.resources
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmLogistica.resources
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmMezclado.resources
+C:\Users\cafuentes\source\repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.frmMocha.resources
+C:\Users\cafuentes\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmReportes.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\Fonts\Font Awesome 6 Brands-Regular-400.otf
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\Fonts\Font Awesome 6 Free-Regular-400.otf
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\Fonts\Font Awesome 6 Free-Solid-900.otf
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\zxing.dll
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\zxing.presentation.dll
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\zxing.xml
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\bin\Debug\zxing.presentation.xml
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmReportes.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmGestionInventario.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmGestionUsuarios.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmLogistica.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmLyfc.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmMezclado.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmMocha.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmPrincipal.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmRecepcionCarne.resources
+C:\Users\chatl\Source\Repos\GestionInventario\GestionInventario\obj\Debug\GestionInventario.FrmTrazalibildad.resources
